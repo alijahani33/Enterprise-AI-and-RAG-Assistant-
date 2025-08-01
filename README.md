@@ -27,10 +27,10 @@ An intelligent, secure, and customizable platform that brings the power of Large
 امنیت در سطح سازمانی: استقرار به صورت On-Premise یا در ابر خصوصی (Private Cloud) و ایزوله بودن کامل، که بالاترین سطح از محرمانگی و امنیت داده را فراهم می‌کند.
 
 🖼️ تصاویری از پروژه
-صفحه چت اصلی	آپلود و پردازش اسناد	مدیریت کاربران
+
+
 <img src="./images/1.png" alt="Main Chat Interface" width="250"/>	<img src="./images/2.png" alt="Document Processing" width="250"/>	<img src="./images/3.png" alt="User Management Panel" width="250"/>
 
-تنظیمات مدل	تاریخچه مکالمات	پنل ادمین
 <img src="./images/4.png" alt="Model Settings" width="250"/>	<img src="./images/5.png" alt="Conversation History" width="250"/>
 
 <br>
@@ -53,8 +53,7 @@ Support for 128 Languages: Ideal for international corporations that operate in 
 Enterprise-Grade Security: Deployed on-premise or on a private cloud, its fully isolated architecture provides the ultimate standard in data confidentiality and security.
 
 🖼️ Project Screenshots
-Main Chat Interface	Document Upload & Processing	User Management
+
 <img src="./images/1.png" alt="Main Chat Interface" width="250"/>	<img src="./images/2.png" alt="Document Processing" width="250"/>	<img src="./images/3.png" alt="User Management Panel" width="250"/>
 
-Model Settings	Conversation History	Admin Dashboard
 <img src="./images/4.png" alt="Model Settings" width="250"/>	<img src="./images/5.png" alt="Conversation History" width="250"/>
